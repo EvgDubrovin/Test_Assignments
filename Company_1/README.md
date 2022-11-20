@@ -15,3 +15,5 @@ We want to run a 5-level loyalty program. The level is given depending on the am
 
 **Question 3, traffic department**  
 We pay to the advertising network for each user who made a payment. How much can we afford to pay for each engaged user, if the payback should be no longer than 1 month?
+
+All tasks made with SQLAlchemy library in Jupyter Notebook.
