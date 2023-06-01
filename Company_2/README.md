@@ -5,7 +5,7 @@ There are 3 tables:
 * Purchases (purchaseId, userId, itemId, date);
 * Items (itemId, price)
 
-You have to **generate these tables** in PostgreSQL and find:
+I had to **generate these tables** in PostgreSQL and find:
 
 A) average monthly purchase amount for:
 - users between 18 and 25 years, inclusive
